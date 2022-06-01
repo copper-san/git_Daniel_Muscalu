@@ -1,4 +1,3 @@
-package ejemplos_excepciones;
 
 public class excepcion_01 {
 

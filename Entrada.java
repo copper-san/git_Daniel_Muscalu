@@ -1,4 +1,3 @@
-package ejemplos_excepciones;
 
 import java.io.*;
 

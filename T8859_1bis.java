@@ -1,6 +1,5 @@
 //import java.io.UnsupportedEncodingException;
 
-package ejemplos_excepciones;
 import java.io.UnsupportedEncodingException;
 
 public class T8859_1bis {

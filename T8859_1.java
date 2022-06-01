@@ -3,7 +3,6 @@
 
 //En esta clase se muestra cómo puede haber un try-catch junto con throws obligatorio éste
 //según haya o no un método que lanza excepción fuera del try, además de los del try.
-package ejemplos_excepciones;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
 import java.io.IOException;

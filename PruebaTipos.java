@@ -1,5 +1,3 @@
-package ejemplos_excepciones;
-
 import java.io.*;
 
 public class PruebaTipos {
